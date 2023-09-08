@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    text-align: center;
+    margin-top: 40px;
+    
+}
+hr{
+    background-color: rgb(44, 44, 44);
+    margin-top: 20px;
+}
+.box-book{
+    border: 1px solid  #bbb;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 50px;
+    border-radius: 10px ;
+    text-align: center;
+}
+.aolado{
+    display: flex;
+    flex-direction: row;
+    gap:150px;
+    margin-left: 15px;
+    margin-top: 30px;
+}
+.para{
+    margin-top: 13px;
+}
+.titulo{
+    margin-top: 8px;
+}
+.input-home{
+    margin-top: 20px;
+   
+}
+.detalhe{
+    width: 90px;
+    height: 20px;
+    border: 1px solid rgb(149, 235, 235);
+    background-color: #fff;
+    border-radius: 5px;
+    
+}
+.editar{
+    width: 90px;
+    height: 20px;
+    border: 1px solid rgb(235, 149, 216);
+    background-color: #fff;
+    border-radius: 5px;
+}
+.excluir{
+    width: 90px;
+    height: 20px;
+    border: 1px solid rgb(235, 149, 149);
+    background-color: #fff;
+    border-radius: 5px;
+}
